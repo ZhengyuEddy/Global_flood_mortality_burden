@@ -1,0 +1,8 @@
+---
+title: "Code sharing statement"
+author: "Eddy"
+date: '2025-05-08'
+output: html_document
+---
+
+Code used to analyse the data and produce results will be publicly available at GitHub: https://github.com/ZhengyuEddy/Global_flood_mortality_burden
